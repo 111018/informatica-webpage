@@ -96,7 +96,10 @@
       color: teal ;
       border-radius: 50%;
       border: 20px solid teal;
-      padding: 40px;
+      padding: 80px;
+      background-image: url(https://th.bing.com/th/id/OIP.tTRaVeXZ2H87PQE2-1J89gHaEK?pid=ImgDet&rs=1);
+          background-position: center center;
+    background-size: cover;
     }
 
     .achievements .work .work-heading {
